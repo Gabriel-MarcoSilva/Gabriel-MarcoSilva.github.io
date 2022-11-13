@@ -11,3 +11,6 @@ Tecnologias que trabalho:
     - C
     - C++
     - Figma
+
+
+![pikachu](https://th.bing.com/th/id/R.610ac234899456457c5612f4c2837f4d?rik=%2fw9Q%2fwBKz%2b%2fnzA&pid=ImgRaw&r=0)
